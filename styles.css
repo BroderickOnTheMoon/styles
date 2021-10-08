@@ -1,0 +1,75 @@
+/* STYLES */
+
+body {
+    background: rgb(129, 219, 235);
+    color: rgb(0, 33, 122);
+    font-family: 'Oswald', sans-serif;
+
+}
+
+h1{
+    font-size: 58px;
+    background-color: mediumaquamarine;
+    text-align: center ;
+    font-style:inherit ;
+
+
+
+}
+
+h5{
+    text-align: center;
+    font-style: italic;
+}
+
+h2{
+    font-size: 20px;
+    
+    text-align-last: center;
+}
+
+h3{
+    font-size: 20px;
+    
+    text-align-last: center;
+}
+
+
+
+h4{
+    font-size: 20px;
+    
+    text-align-last: center;
+}
+
+
+em{
+    font-size: 13px;
+
+    text-align: center ;
+    font-style:inherit ;
+
+
+
+}
+
+ul{
+    text-align: center;
+}
+
+
+p {
+    margin-bottom:20px;    
+    text-indent: 40px ; 
+    margin-left: ;
+}
+
+main {
+    max-width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-style: solid;
+    background-color: lightcyan;
+}
